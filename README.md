@@ -18,3 +18,12 @@ The dataset under analysis is titled Retailer Dataset and consists of 9,647 rows
 10. Total Sales: The total revenue generated from each transaction.
 11. Operating Profit: The profit earned from each transaction.
 12. Operating Margin: The percentage of sales that has turned into profit.
+
+
+# Insights:
+
+1. The dashboard highlights a substantial growth in both sales and operating profit from 2022 to 2023.
+2. There is a significant increase in sales across most beverage brands and retailers, indicating successful marketing and distribution strategies.
+3. The visual trend of sales and profit margin by quarter demonstrates consistent growth, suggesting strong performance and effective cost management over time.
+   
+This dashboard serves as an effective tool for Coca-Cola to monitor and analyze their retail performance, enabling strategic decision-making based on data-driven insights.
